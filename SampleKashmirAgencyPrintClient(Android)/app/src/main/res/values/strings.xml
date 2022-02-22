@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KashmirAgencyPrintClient</string>
+    <string name="ip_address_alert">IP Address</string>
+    <string name="save">Save</string>
+    <string name="invalid_ip">Invalid Ip Address</string>
+    <string name="cancel">Cancel</string>
+</resources>
